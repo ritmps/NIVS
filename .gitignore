@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions & binaries
+*.so
+*.dylib
+*.dll
+*.exe
+*.o
+*.a
+*.bin
+
+# Model checkpoints & large binary data
+Checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pkl
+*.pickle
+*.onnx
+*.npz
+*.npy
+
+# Output documents & PDFs
+*.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Operating System artifacts
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs and metric dumps (optional temporary logs)
+*.log
+metrics_log_*.txt
