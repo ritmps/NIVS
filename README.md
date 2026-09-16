@@ -1,5 +1,9 @@
 # Necessary Information View Selection(NIVS)
 
+This is author's code release for:
+
+Necessary Information Measure for Neural Reconstruction of Radiance Fields
+
 NIVS (Neural Information-guided View Selection) is an active view selection framework for Neural Radiance Fields (NeRF). It leverages information-theoretic metrics—such as ray transmittance entropy and degeneracy detection—to select the most informative candidate camera viewpoints during NeRF training.
 
 ## Overview
