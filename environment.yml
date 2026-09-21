@@ -1,0 +1,14 @@
+name: NIVS
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.9
+  - matplotlib
+  - scikit-learn
+  - opencv
+  - imageio
+  - seaborn
+  #- openexr
+  - scikit-image
+#prefix: /home/ts4781/anaconda/envs/pytorch_env
